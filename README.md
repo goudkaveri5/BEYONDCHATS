@@ -1,5 +1,4 @@
-
-
+ # Complete Project File Structure
 
 ```
 beyondchats-assignment/
@@ -386,13 +385,7 @@ VITE_API_URL=http://localhost:8000/api
 - Tailwind CSS for responsive design
 - React hooks for state management
 
-## Known Limitations
 
-1. **Google Search**: May require CAPTCHA solving in production (use ScraperAPI or similar)
-2. **Rate Limiting**: No rate limiting implemented on APIs
-3. **Authentication**: Basic implementation, no user roles
-4. **Error Recovery**: Limited retry logic
-5. **Caching**: No caching layer for API responses
 
 ## Testing
 
@@ -428,12 +421,13 @@ npm run build
 vercel --prod
 ```
 
+### Deploy Node.js Script
+
+Can be run as a cron job or scheduled task on Railway/Heroku.
+
 
 
 ## Contact
 
 For questions or issues, contact: goudkaveri5@gmail.com
 
-## License
-
-MIT License
