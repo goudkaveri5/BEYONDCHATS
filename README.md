@@ -428,31 +428,11 @@ npm run build
 vercel --prod
 ```
 
-### Deploy Node.js Script
 
-Can be run as a cron job or scheduled task on Railway/Heroku.
-
-## Time Spent
-
-- **Phase 1**: 2.5 hours
-- **Phase 2**: 3 hours
-- **Phase 3**: 1.5 hours
-- **Documentation**: 1 hour
-- **Total**: ~8 hours
-
-## Future Enhancements
-
-- [ ] Add user authentication
-- [ ] Implement caching layer (Redis)
-- [ ] Add rate limiting
-- [ ] Webhook support for automated enhancement
-- [ ] Scheduled article enhancement via cron
-- [ ] A/B testing for enhanced articles
-- [ ] Analytics dashboard
 
 ## Contact
 
-For questions or issues, contact: support@beyondchats.com
+For questions or issues, contact: goudkaveri5@gmail.com
 
 ## License
 
